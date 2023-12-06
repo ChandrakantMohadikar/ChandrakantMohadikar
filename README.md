@@ -2,7 +2,6 @@
 - 👀 I’m interested in ASIC design and Verification & also in Embedded system design.
 - 🌱 I’m currently studying in Ramdeobaba Collage of Engineering and Management Nagpur
 - 💞️ I’m looking to collaborate on Electronics Project Development
-- 📫 To reach me visit @wishmaster_cm on instagram.
 - 
 - 
 <!---

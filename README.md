@@ -20,7 +20,7 @@ I am a Project Engineer at **CDAC Bangalore** currently working on a **RISC-V Ba
 ### 🛠️ Key Projects
 
 #### **RISC-V Based GPGPU (Streaming Processor Pipeline)**
-* **Control Logic:** Designed and integrated the CSR Unit and Warp Control Unit for the Execute stage.
+* **Control Logic:** Designed and integrated the Special Function Unit for the Execute stage.
 * **Memory Architecture:** Implemented the Load/Store Unit and Memory Scheduler for the Execute stage.
 * **FPGA Prototyping:** Implemented the Special Function Unit (SFU) on FPGA and completed full 6-stage pipeline integration.
 * **Verification:** Conducted functional/timing verification and performed linting/X-propagation checks.
